@@ -6,7 +6,7 @@
 3. 根据给定数据（实验三.2），用梯度下降算法进行数据拟合，并用学习好的模型对(2,6)分类。
 （对2,3实现有难度的同学，可以直接调用sklearn中LogisticRegression进行学习）  
 
-函数说明:
+函数说明:  
 	Sig  返回sigmoid函数的值  
 	Regression_function 回归函数    
 	Derivation 损失函数的导数  
