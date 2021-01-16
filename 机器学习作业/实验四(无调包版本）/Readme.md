@@ -18,4 +18,6 @@ import numpy as np
 
 在使用实验三的聚合数据来源于曾俊雄  
 https://github.com/HeyLancelot/Machine-Learning-Experiment/tree/main/  
-在此致谢
+在此致谢  
+
+作者： 华航苇
